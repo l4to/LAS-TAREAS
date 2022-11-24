@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(110, 110, 109);
+    
+
+}
+.logeo{
+    background-color: rgb(139, 139, 184);
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+
+}
+.lel{
+    background-color: rgb(99, 212, 188);
+    text-align: center;
+    color: rgb(32, 34, 10);
+}
+
+.lol{
+    background-color: rgb(98, 129, 95);
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 30%;
+    margin-right: 30%;
+    color: rgb(6, 24, 24);
+    text-align: left;
+}
+.boton{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.te{
+    background-color: rgb(167, 226, 146);
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+    margin-left: 40%;
+    margin-right: 40%;
+   
+}
+.bo{
+    text-align: center;
+    margin-left: 47%;
+    margin-right: 39%;
+    margin-bottom: 15px;
+}

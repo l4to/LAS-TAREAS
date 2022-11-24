@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(116, 253, 208);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
+
+.titulo{
+    background-color:rgb(97, 245, 121) ;
+   
+}
+.img{
+    padding-left: 82%;
+    padding-top: 15px;
+    float: left;
+    
+}
+
+h1{
+    background-color: rgb(206, 71, 116);
+    color: rgb(11, 17, 20);
+    text-align:center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-right: 20%;
+    margin-bottom: 40px;
+    margin-top: 10px;
+}
+
+p{
+    background-color: rgb(101, 202, 202);
+    color: rgb(71, 85, 85);
+    text-align: left;   
+    font-size:19px;
+    font-style: oblique;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;;
+}
+input{
+    
+    background-color: rgb(225, 224, 229);
+    display: block;
+    margin: auto;
+    margin-bottom: 15px ;
+}
+
+.subti{
+    color: rgb(226, 71, 180);
+    background-color: rgb(143, 184, 49);
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.tu{
+
+    color: rgb(48, 50, 168);
+    background-color:rgb(56, 173, 241) ;
+    margin-left: 40%;
+    margin-right: 40%;
+}
