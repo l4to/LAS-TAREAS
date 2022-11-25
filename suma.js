@@ -15,7 +15,7 @@ function calcular(){
  let resultado;
  switch(operacion){
     case "+":
-        resultado =pri+segu;
+        resultado =pri + segu;
         break;
  }
  hojadice.innerText ="= la respuesta es :" + resultado;
